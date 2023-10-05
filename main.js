@@ -3518,7 +3518,7 @@ function colorSelector() {
 
 function showQuote(){
   quote.innerHTML = quoteSelector(colorSelector());
-  button.innerHTML = "MORE";
+  button.innerHTML = "Next";
   button.style.cursor = "pointer";
 }
 
