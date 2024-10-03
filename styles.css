@@ -44,6 +44,10 @@ h1{
     cursor: pointer;
 }
 
+#note {
+    color: white;
+}
+
 /* App Description */
 
 .about {
